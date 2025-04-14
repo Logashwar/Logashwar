@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Logashwar
-- 👀 I’m interested in - java, problem solving
-- 🌱 I’m currently learning - spring boot
-- 💞️ I’m looking to collaborate on .
+- 👀 I’m interested in - java, Spring boot, hibernate
 - 📫 How to reach me - logashwar@gmail.com
 
 <!---
