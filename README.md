@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Logashwar
-- 👀 I’m interested in - java, Spring boot, hibernate
+- 👀 I’m interested in - java, Spring boot, hibernate, spring AI, cloud
 - 📫 How to reach me - logashwar@gmail.com
 
 <!---
